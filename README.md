@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in)
 <h1>💫 About Me:</h1>
-- 🔭 I’m currently working on <a src="https://multiverseweb.github.io/multiverse/">Multiverse</a>
+- 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>
 
 - 🌱 I’m currently learning **Dart for Flutter**
 
@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **I'm a space enthusiast 🪐**
 
-<h3 align="left">Connect with me:</h3>
 <h1>🌐 Socials:</h1>
 <p align="left">
 <a href="https://codepen.io/tejas-gupta-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tejas-gupta-7" height="30" width="40" /></a>
