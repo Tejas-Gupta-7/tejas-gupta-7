@@ -6,17 +6,19 @@
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in)
 <h1>💫 About Me:</h1>
-- 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>
+- 🎓 Pursuing my Bachelor's in Computer Science and Business Systems from <a href="http://bvucoepune.edu.in/">Bharati Vidyapeeth (DU) College of Engineering</a>.
 
-- 🌱 I’m currently learning **Dart for Flutter**
+- 🔭 I’m currently working on <a href="https://multiverseweb.github.io/multiverse/">Multiverse</a>.
 
-- 👨‍💻 All of my projects are available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/)
+- 🌱 I’m currently learning **Dart for Flutter**.
 
-- 💬 Ask me about **Web Development, UI/UX Designing**
+- 👨‍💻 All of my projects are available at [https://multiverseweb.github.io/tejas/](https://multiverseweb.github.io/tejas/).
 
-- 📫 How to reach me **iamtejasgupta26@gmail.com**
+- 💬 Ask me about **Web Development, UI/UX Designing**.
 
-- ⚡ Fun fact **I'm a space enthusiast 🪐**
+- 📫 How to reach me **iamtejasgupta26@gmail.com**.
+
+- 🪐 Fun fact **I'm a space enthusiast.**
 
 <h1>🌐 Socials:</h1>
 <p align="left">
