@@ -43,7 +43,7 @@
 
 <h3 align="left">🗠 Database</h3>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
