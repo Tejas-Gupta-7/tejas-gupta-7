@@ -1,10 +1,11 @@
 [![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)](https://rishavchanda.io)
 <h1 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:30px;"/> I'm Tejas Gupta</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A technical enthusiast from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 
 [![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)](https://visitcount.itsvg.in)
+<hr/>
 <h1>💫 About Me:</h1>
 
 - 🎓 Pursuing my Bachelor's in Computer Science and Business Systems from <a href="http://bvucoepune.edu.in/">Bharati Vidyapeeth (DU) College of Engineering</a>.
@@ -20,7 +21,7 @@
 - 📫 How to reach me **iamtejasgupta26@gmail.com**.
 
 - 🪐 Fun fact **I'm a space enthusiast.**
-
+<hr/>
 <h1>🌐 Socials:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/tejas-gupta-363887251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tejas-gupta-363887251"  /></a>
@@ -33,6 +34,7 @@
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://t.me/tejasgupta26" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 </p>
+<hr/>
 
 # 🚀 Tech Stack:
 <h3 align="left">⚡ Languages</h3>
@@ -61,13 +63,14 @@
 ![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
 
-<h3 align="left">🗠 Database</h3>
+<h3 align="left">📒 Database</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
 <h3 align="left">💻 OS</h3>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) <hr/>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=multiverseweb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -82,7 +85,5 @@
 
 <img align="middle" alt="Coding" height="50px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
 <hr/>
-
-
 
 
