@@ -118,5 +118,3 @@ Tejas°
 
 </div>
 
-
-Tejas
